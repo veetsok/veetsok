@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm I am a beginner web developer.<br>Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.<br>How to reach me: Telegram - ivan_veetsok.<br>Let's connect!
+Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm I am a beginner web developer.<br>Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.<br>How to reach me: Telegram - @ivan_veetsok.<br>Let's connect!
 
 
 # 💻 Tech Stack:
