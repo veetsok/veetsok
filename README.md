@@ -39,16 +39,16 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
     <img src="./icons/firebase.svg" alt="Firebase" width="40px" height="40px">
   </a>
 
-  <a href="https://www.docker.com/" title="docker">
-    <img src="./icons/docker-icon.svg" alt="docker" width="40px" height="40px">
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="./icons/docker-icon.svg" alt="Docker" width="40px" height="40px">
   </a>
 
   <a  href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="./icons/postgresql-logo.svg" alt="PostgreSQL" width="40px" height="40px">
   </a>
 
-  <a href="https://webpack.js.org/" title="webpack">
-    <img src="./icons/webpack.svg" alt="webpack" width="40px" height="40px">
+  <a href="https://webpack.js.org/" title="Webpack">
+    <img src="./icons/webpack.svg" alt="Webpack" width="40px" height="40px">
   </a>
 
   <a href="https://vitejs.dev/" title="Vite">
