@@ -9,7 +9,7 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/veetsok/veetsok/blob/main/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="./icons/redux.svg" alt="Redux" width=40px" height="40px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="./icons/nextjs-icon.svg" alt="Next.js" width=40px" height="40px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/veetsok/veetsok/blob/main/icons/nextjs-icon.svg" alt="Next.js" width=40px" height="40px"></a>
 
   <a href="https://sass-lang.com/" title="Sass"><img src="./icons/sass.svg" alt="Sass" width=40px" height="40px"></a>
 
