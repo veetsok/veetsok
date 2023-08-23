@@ -4,7 +4,7 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
 
 # 💻 Tech Stack:
 
-  <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-icon.svg" alt="Typescript" width="24px" height="24px"></a>
+  <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 
 # 📊 GitHub Stats:
 [![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)</br>
