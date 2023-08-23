@@ -81,8 +81,6 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
 # 📊 GitHub Stats:
 [![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)</br>
 </br>
-![](https://github-readme-stats.vercel.app/api?username=veetsok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=veetsok&theme=dark&hide_border=false)</br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=veetsok&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br></br>
 
 
