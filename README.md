@@ -103,7 +103,7 @@ SPA:
 Landing pages:
 - [Discover And Create NFTs](https://github.com/veetsok/discover_nft): https://discover-nft.vercel.app
 
-- [Bio Test](https://github.com/veetsok/profsoft-host): https://bio-test.netlify.app
+- [Bio Test](https://github.com/veetsok/bio-test-app): https://bio-test.netlify.app
 
 - [Js Technics Store](https://github.com/veetsok/digital__test): https://digital-test-veetsok.netlify.app/
 
