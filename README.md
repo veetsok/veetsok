@@ -90,21 +90,21 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 
 ### :desktop_computer: My Projects for sharing:
 SPA:
-- [Task Master](https://github.com/veetsok/task-master): https://master-task.netlify.app
+- [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
 
-- [Sneakers Store](https://github.com/veetsok/4_react_sneakers): https://sneakers-store-onekos.netlify.app 
+- [Sneakers Store](https://github.com/veetsok/4_react_sneakers) : https://sneakers-store-onekos.netlify.app 
 
-- [TodoList](https://github.com/veetsok/mern_todolist-js): https://kiatodo-site.netlify.app
+- [TodoList](https://github.com/veetsok/mern_todolist-js) : https://kiatodo-site.netlify.app
 
 - [Fishing Store](https://github.com/veetsok/fishingStore)
 
-- [Headphone Store](https://github.com/veetsok/airpods_store): https://airpods-store.netlify.app
+- [Headphone Store](https://github.com/veetsok/airpods_store) : https://airpods-store.netlify.app
 
 Landing pages:
-- [Discover And Create NFTs](https://github.com/veetsok/discover_nft): https://discover-nft.vercel.app
+- [Discover And Create NFTs](https://github.com/veetsok/discover_nft) : https://discover-nft.vercel.app
 
-- [Bio Test](https://github.com/veetsok/bio-test-app): https://bio-test.netlify.app
+- [Bio Test](https://github.com/veetsok/bio-test-app) : https://bio-test.netlify.app
 
-- [Js Technics Store](https://github.com/veetsok/digital__test): https://digital-test-veetsok.netlify.app/
+- [Js Technics Store](https://github.com/veetsok/digital__test) : https://digital-test-veetsok.netlify.app/
 
-- [POSH](https://veetsoklanding.netlify.app/):
+- [POSH](https://veetsoklanding.netlify.app/) :
