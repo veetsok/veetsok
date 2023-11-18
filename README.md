@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web developer.<br>Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.<br>Thank you for visiting MasterTask! For any inquiries or collaboration opportunities, feel free to contact me. Connect with me on email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/ivan_veetsok).<br>Let's connect!
+Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web developer.<br>Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.<br>Thank you for visiting MasterTask! For any inquiries or collaboration opportunities, feel free to contact me. Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/ivan_veetsok).<br>Let's connect!
 
 
 ### :hammer_and_wrench: Languages and Tools :
