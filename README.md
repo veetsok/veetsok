@@ -88,6 +88,22 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
 ---
 
 ### :desktop_computer: My Projects for sharing:
+SPA:
+- [Task Master](https://github.com/veetsok/task-master): https://master-task.netlify.app
 
+- [Sneakers Store](https://github.com/veetsok/4_react_sneakers): https://sneakers-store-onekos.netlify.app 
 
----
+- [TodoList](https://github.com/veetsok/MERN_stack_todoList): https://kiatodo-site.netlify.app
+
+- [Fishing Store](https://github.com/veetsok/fishingStore)
+
+- [Headphone Store](https://github.com/veetsok/airpods_store): https://airpods-store.netlify.app
+
+Landing pages:
+- [Discover And Create NFTs](https://github.com/veetsok/discover_nft): https://discover-nft.vercel.app
+
+- [Bio Test](https://github.com/veetsok/profsoft-host): https://bio-test.netlify.app
+
+- [Js Technics Store](https://github.com/veetsok/digital__test): https://digital-test-veetsok.netlify.app/
+
+- [POSH](https://veetsoklanding.netlify.app/):
