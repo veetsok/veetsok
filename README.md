@@ -94,7 +94,7 @@ SPA:
 
 - [Sneakers Store](https://github.com/veetsok/4_react_sneakers): https://sneakers-store-onekos.netlify.app 
 
-- [TodoList](https://github.com/veetsok/MERN_stack_todoList): https://kiatodo-site.netlify.app
+- [TodoList](https://github.com/veetsok/mern_todolist-js): https://kiatodo-site.netlify.app
 
 - [Fishing Store](https://github.com/veetsok/fishingStore)
 
