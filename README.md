@@ -2,7 +2,7 @@
 Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web developer.<br>Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.<br>How to reach me: Telegram - [@ivan_veetsok](https://t.me/ivan_veetsok).<br>Let's connect!
 
 
-# 💻 Tech Stack:
+### :hammer_and_wrench: Languages and Tools :
   <a href="https://www.w3.org/TR/html5/" title="HTML5">
     <img src="./icons/html-5.svg" alt="HTML5" width="40px" height="40px">
   </a>
@@ -77,12 +77,17 @@ Hi there! 👋 Thanks for stopping by!<br>My name is Ivan, and  I'm a junior web
     <img src="./icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="40px">
   </a>
 
+---
 
-# 📊 GitHub Stats:
+### 📊 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veetsok)](https://git.io/streak-stats)
+
 [![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)</br>
 </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=veetsok&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br></br>
 
+---
+
+### :desktop_computer: My Projects for sharing:
 
 
 ---
