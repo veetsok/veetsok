@@ -105,6 +105,6 @@ Landing pages:
 
 - [Bio Test](https://github.com/veetsok/bio-test-app) : https://bio-test.netlify.app
 
-- [Js Technics Store](https://github.com/veetsok/digital__test) : https://digital-test-veetsok.netlify.app/
+- [Js Technics Store](https://github.com/veetsok/digital__test) : https://digital-test-veetsok.netlify.app
 
-- [POSH](https://veetsoklanding.netlify.app/) :
+- [POSH](https://github.com/veetsok/Posh_Js) : https://veetsoklanding.netlify.app
