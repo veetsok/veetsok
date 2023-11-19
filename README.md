@@ -81,13 +81,20 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 ---
 
 ### 📊 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veetsok)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=veetsok&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veetsok&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-[![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)</br>
-</br>
+[![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)
 
 ---
-
 ### :desktop_computer: My Projects for sharing:
 SPA:
 - [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
