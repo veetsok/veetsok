@@ -110,6 +110,8 @@ SPA:
 Landing pages:
 - [Discover And Create NFTs](https://github.com/veetsok/discover_nft) : https://discover-nft.vercel.app
 
+- [WELBEX](https://github.com/veetsok/WELBEX_Landing) : https://welbex-landing-veetsok.netlify.app
+
 - [Bio Test](https://github.com/veetsok/bio-test-app) : https://bio-test.netlify.app
 
 - [Js Technics Store](https://github.com/veetsok/digital__test) : https://digital-test-veetsok.netlify.app
