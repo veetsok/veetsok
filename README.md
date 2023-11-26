@@ -93,7 +93,7 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 </table>
 
 [![codewars](https://www.codewars.com/users/veetsok/badges/large)](https://www.codewars.com/users/veetsok)
-
+---
 ---
 ### :desktop_computer: My Projects for sharing:
 SPA:
