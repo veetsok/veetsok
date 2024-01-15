@@ -100,6 +100,8 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 SPA:
 - [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
 
+- [7winds Test](https://github.com/veetsok/seven_winds) : https://seven-winds-green.vercel.app
+
 - [Sneakers Store](https://github.com/veetsok/4_react_sneakers) : https://sneakers-store-onekos.netlify.app 
 
 - [TodoList](https://github.com/veetsok/mern_todolist-js) : https://kiatodo-site.netlify.app
