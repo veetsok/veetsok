@@ -100,6 +100,10 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 SPA:
 - [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
 
+- [Kugoo SPA](https://github.com/veetsok/testsobes) : https://testsobes.vercel.app
+
+- [Chat](https://github.com/veetsok/test2_chat) : https://test2-chat.vercel.app
+
 - [7winds Test](https://github.com/veetsok/seven_winds) : https://seven-winds-green.vercel.app
 
 - [Sneakers Store](https://github.com/veetsok/4_react_sneakers) : https://sneakers-store-onekos.netlify.app 
