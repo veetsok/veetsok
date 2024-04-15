@@ -98,6 +98,8 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 
 ### :desktop_computer: My Projects for sharing:
 SPA:
+
+-Beta : https://next14-taliwind.vercel.app/
 - [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
 
 - [Kugoo SPA](https://github.com/veetsok/testsobes) : https://testsobes.vercel.app
