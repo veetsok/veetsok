@@ -100,7 +100,7 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 SPA:
 
 - Beta : https://next14-taliwind.vercel.app/
-- [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
+- [Task Master](https://github.com/veetsok/task-master) : https://veetsok-store.vercel.app
 
 - [Kugoo SPA](https://github.com/veetsok/testsobes) : https://testsobes.vercel.app
 
