@@ -1,9 +1,11 @@
 # 💫 About Me:
-Hey there! 👋 I'm Ivan, a passionate junior web developer with a love for coding and exploring cutting-edge technologies. In my free time, you'll find me tackling challenges on Codewars, diving into technical articles, and constantly expanding my skill set.
+
+<!-- Hey there! 👋 I'm Ivan, a passionate junior web developer with a love for coding and exploring cutting-edge technologies. In my free time, you'll find me tackling challenges on Codewars, diving into technical articles, and constantly expanding my skill set. -->
+
 Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/ivan_veetsok).<br>Let's connect!
 
-
 ### :hammer_and_wrench: Languages and Tools :
+
   <a href="https://www.w3.org/TR/html5/" title="HTML5">
     <img src="./icons/html-5.svg" alt="HTML5" width="40px" height="40px">
   </a>
@@ -81,6 +83,7 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 ---
 
 ### 📊 My Stats :
+
 <table>
   <tr>
     <td>
@@ -97,18 +100,20 @@ Connect with me on Email at ivankosteev-it@yandex.ru or [Telegram](https://t.me/
 ---
 
 ### :desktop_computer: My Projects for sharing:
+
 SPA:
 
-- Beta : [https://next14-taliwind.vercel.app/](https://veetsok-store.vercel.app/)
+<!-- - Beta : [https://next14-taliwind.vercel.app/](https://veetsok-store.vercel.app/) -->
+
 - [Task Master](https://github.com/veetsok/task-master) : https://master-task.netlify.app
 
-- [Kugoo SPA](https://github.com/veetsok/testsobes) : https://testsobes.vercel.app
+<!-- - [Kugoo SPA](https://github.com/veetsok/testsobes) : https://testsobes.vercel.app
 
 - [Chat](https://github.com/veetsok/test2_chat) : https://test2-chat.vercel.app
 
 - [7winds Test](https://github.com/veetsok/seven_winds) : https://seven-winds-green.vercel.app
 
-- [Sneakers Store](https://github.com/veetsok/4_react_sneakers) : https://sneakers-store-onekos.netlify.app 
+- [Sneakers Store](https://github.com/veetsok/4_react_sneakers) : https://sneakers-store-onekos.netlify.app
 
 - [TodoList](https://github.com/veetsok/mern_todolist-js) : https://kiatodo-site.netlify.app
 
@@ -125,4 +130,4 @@ Landing pages:
 
 - [Js Technics Store](https://github.com/veetsok/digital__test) : https://digital-test-veetsok.netlify.app
 
-- [POSH](https://github.com/veetsok/Posh_Js) : https://veetsoklanding.netlify.app
+- [POSH](https://github.com/veetsok/Posh_Js) : https://veetsoklanding.netlify.app -->
